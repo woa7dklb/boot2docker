@@ -1,6 +1,7 @@
 # Boot2Docker-NG
 
 NOTE: This is a fork from the original https://github.com/boot2docker/boot2docker/
+with parts form: https://github.com/kaosagnt/boot2docker-xfs-ng/
 
 It uses TCL (TinyCore Linux 11.x) and the XFS filesystem by default.
 
