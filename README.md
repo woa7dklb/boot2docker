@@ -1,3 +1,13 @@
+# Boot2Docker-NG
+
+NOTE: This is a fork from the original https://github.com/boot2docker/boot2docker/
+
+It uses TCL (TinyCore Linux 11.x) and the XFS filesystem by default.
+
+Boot2Docker is a lightweight Linux distribution made specifically to run
+[Docker](https://www.docker.com/) containers. It runs completely from RAM, is a
+~69MB download and boots quickly.
+
 # DEPRECATED
 
 Boot2Docker is officially deprecated and unmaintained.  It is recommended that users transition from Boot2Docker over to [Docker Desktop](https://www.docker.com/products/docker-desktop) instead (especially with [the new WSL2 backend, which supports Windows 10 Home](https://www.docker.com/blog/docker-desktop-for-windows-home-is-here/)).
